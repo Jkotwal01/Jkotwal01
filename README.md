@@ -9,6 +9,7 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkotwal01&label=Profile%20views&color=0e75b6&style=flat" alt="jkotwal01" /> </p>
+
 ## 💡 **About Me**  
 
 🎓 **3rd Year Computer Engineering Student @ PICT**  
@@ -57,4 +58,4 @@
   </a>
 </p>
 
-🚀 _"AI isn't the future. AI is NOW!"_  
+🚀 _"AI adoption isn’t optional — it’s operational"_  
