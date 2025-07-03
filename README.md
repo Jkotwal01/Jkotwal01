@@ -12,7 +12,7 @@
 
 ## 💡 **About Me**  
 
-🎓 **3rd Year Computer Engineering Student @ PICT**  
+🎓 **3rd Year ENTC Engineering Student @ PICT**  
 🔬 **AIML | Data Scientist Enthusiast | Backend Developer ⚡**  
 📊 **NLP & Deep Learning Enthusiast**     
 🏆 **LeetCode & CodeChef Star 🌟**  
